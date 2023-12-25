@@ -1,9 +1,9 @@
+
 # Component Lifecycle - React Todo Full-Stack
 
 This module explored lifecycle methods in class components. In your project you will demonstrate proficiency of these concepts by building a todo app that can interact with an API to read, create and edit todos.
 
 ## Skills You Will Practice
-
 - Building class components from scratch
 - Using `ComponentDidMount` to trigger a request to the server after the first render
 - Using a submit event handler to create (`POST`) a new resource to the server
